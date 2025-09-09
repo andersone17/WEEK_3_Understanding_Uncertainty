@@ -7,3 +7,5 @@ Test 2 - non-forked
 Heywood was here.
 
 Chase
+
+Eddie's final Addition
